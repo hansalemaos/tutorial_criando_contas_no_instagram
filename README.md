@@ -1,3 +1,18 @@
+## Bibliotecas usadas
+
+### https://pypi.org/project/undetected-chromedriver/
+
+#### pip install undetected-chromedriver
+
+### https://pypi.org/project/gettmpmail/
+
+#### pip install gettmpmail
+
+### https://pypi.org/project/selenium2df-locate-element/
+
+#### pip install selenium2df-locate-element
+
+
 ### Tutorial (Brazilian Portuguese)
 
 [![YT](https://i.ytimg.com/vi/wwazbiMYw80/maxresdefault.jpg)](https://www.youtube.com/watch?v=wwazbiMYw80)
