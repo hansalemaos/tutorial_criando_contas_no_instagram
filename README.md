@@ -51,8 +51,8 @@ Aproveite o vídeo e aprenda como usar essa poderosa biblioteca de automação!
 
 ### Como instalar/usar undetected chromedriver/a-selenium2df: 
 
-[![YT](https://i.ytimg.com/vi/UMKEiy7EGLE/maxresdefault.jpg)](https://www.youtube.com/watch?v=UMKEiy7EGLE)
-[https://www.youtube.com/watch?v=UMKEiy7EGLE]()
+[![YT](https://i.ytimg.com/vi/XuyhQaGxGWU/maxresdefault.jpg)](https://www.youtube.com/watch?v=XuyhQaGxGWU)
+[https://www.youtube.com/watch?v=XuyhQaGxGWU]()
 
 ### Um exemplo prático de como usar a-selenium2df:
 
