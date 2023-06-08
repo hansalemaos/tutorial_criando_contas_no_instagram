@@ -1,6 +1,7 @@
 ## Bibliotecas usadas
 
 ### https://pypi.org/project/undetected-chromedriver/
+### https://github.com/ultrafunkamsterdam/undetected-chromedriver
 
 #### pip install undetected-chromedriver
 
