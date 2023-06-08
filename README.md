@@ -1,17 +1,17 @@
 ## Bibliotecas usadas
 
-### https://pypi.org/project/undetected-chromedriver/
-### https://github.com/ultrafunkamsterdam/undetected-chromedriver
+### pip install undetected-chromedriver
+#### https://pypi.org/project/undetected-chromedriver/
+#### https://github.com/ultrafunkamsterdam/undetected-chromedriver
 
-#### pip install undetected-chromedriver
 
-### https://pypi.org/project/gettmpmail/
+### pip install gettmpmail
+#### https://pypi.org/project/gettmpmail/
+#### https://github.com/hansalemaos/gettmpmail
 
-#### pip install gettmpmail
-
-### https://pypi.org/project/selenium2df-locate-element/
-
-#### pip install selenium2df-locate-element
+### pip install selenium2df-locate-element
+#### https://pypi.org/project/selenium2df-locate-element/
+#### https://github.com/hansalemaos/selenium2df_locate_element
 
 
 ## Tutorial (em portuguese)
