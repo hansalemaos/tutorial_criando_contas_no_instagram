@@ -1,3 +1,8 @@
+### Tutorial (Brazilian Portuguese)
+
+[![YT](https://i.ytimg.com/vi/wwazbiMYw80/maxresdefault.jpg)](https://www.youtube.com/watch?v=wwazbiMYw80)
+[https://www.youtube.com/watch?v=wwazbiMYw80]()
+
 No vídeo, mostro como criar uma conta no Instagram usando o Undetected Chromedriver (patched Selenium), uma biblioteca de automação de navegador, selenium2df-locate-element, um módulo que criei para encontrar webelements mais facilmente, e gettmpmail, outra biblioteca que escrevi para criar e-mails durante o processo de automação.
 
 No código, realizo os seguintes passos:
