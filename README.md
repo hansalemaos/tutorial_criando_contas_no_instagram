@@ -13,12 +13,16 @@
 #### pip install selenium2df-locate-element
 
 
-### Tutorial (em portuguese)
+## Tutorial (em portuguese)
 
 [![YT](https://i.ytimg.com/vi/wwazbiMYw80/maxresdefault.jpg)](https://www.youtube.com/watch?v=wwazbiMYw80)
 [https://www.youtube.com/watch?v=wwazbiMYw80]()
 
 No vídeo, mostro como criar uma conta no Instagram usando o Undetected Chromedriver (patched Selenium), uma biblioteca de automação de navegador, selenium2df-locate-element, um módulo que criei para encontrar webelements mais facilmente, e gettmpmail, outra biblioteca que escrevi para criar e-mails durante o processo de automação.
+
+## Código-fonte 
+
+https://github.com/hansalemaos/tutorial_criando_contas_no_instagram/blob/main/code.py
 
 No código, realizo os seguintes passos:
 
@@ -33,7 +37,7 @@ Preencho o campo de código com o código extraído.
 
 Aproveite o vídeo e aprenda como usar essa poderosa biblioteca de automação!
 
-## Vídeos importantes: 
+## Vídeos importantes relacionados ao assunto: 
 
 ### Como criar e-mail gratuitos:
 
