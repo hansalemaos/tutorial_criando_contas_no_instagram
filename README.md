@@ -13,7 +13,7 @@
 #### pip install selenium2df-locate-element
 
 
-### Tutorial (Brazilian Portuguese)
+### Tutorial (em portuguese)
 
 [![YT](https://i.ytimg.com/vi/wwazbiMYw80/maxresdefault.jpg)](https://www.youtube.com/watch?v=wwazbiMYw80)
 [https://www.youtube.com/watch?v=wwazbiMYw80]()
